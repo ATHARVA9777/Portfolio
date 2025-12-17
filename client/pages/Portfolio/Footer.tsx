@@ -19,8 +19,8 @@ export default function Footer() {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/atharva-sonawane",
-      href: "https://linkedin.com/in/atharva-sonawane",
+      value: "linkedin.com/in/atharva-sonawane-664715352",
+      href: "https://www.linkedin.com/in/atharva-sonawane-664715352",
       external: true,
     },
     {
