@@ -41,7 +41,8 @@ export default function Accomplishments() {
     {
       name: "Machine Learning Specialization",
       provider: "DataCamp",
-      details: "Supervised/Unsupervised Learning, Model Evaluation, Feature Engineering",
+      details:
+        "Supervised/Unsupervised Learning, Model Evaluation, Feature Engineering",
     },
     {
       name: "Python Programming & Data Science",
@@ -51,7 +52,8 @@ export default function Accomplishments() {
     {
       name: "SQL for Data Analysis",
       provider: "DataCamp",
-      details: "Database design, Query optimization, Complex joins, Window functions",
+      details:
+        "Database design, Query optimization, Complex joins, Window functions",
     },
     {
       name: "Introduction to Artificial Intelligence & Neural Networks",

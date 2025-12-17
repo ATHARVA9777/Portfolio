@@ -103,7 +103,10 @@ export default function Experience() {
 
                   <ul className="space-y-2">
                     {exp.highlights.map((highlight, hIndex) => (
-                      <li key={hIndex} className="text-sm text-muted-foreground">
+                      <li
+                        key={hIndex}
+                        className="text-sm text-muted-foreground"
+                      >
                         <span className="mr-3">•</span>
                         {highlight}
                       </li>

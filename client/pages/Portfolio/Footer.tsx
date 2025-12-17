@@ -41,9 +41,9 @@ export default function Footer() {
         <div className="mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold mb-6">Let's Connect</h2>
           <p className="text-base text-gray-300 max-w-2xl leading-relaxed">
-            Always interested in exploring new opportunities in AI/ML engineering,
-            full-stack development, or discussing innovative technical solutions.
-            Feel free to reach out.
+            Always interested in exploring new opportunities in AI/ML
+            engineering, full-stack development, or discussing innovative
+            technical solutions. Feel free to reach out.
           </p>
         </div>
 

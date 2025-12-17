@@ -89,7 +89,8 @@ export default function Projects() {
         "JavaScript",
         "REST APIs",
       ],
-      impact: "Production-ready web applications with strong performance metrics",
+      impact:
+        "Production-ready web applications with strong performance metrics",
     },
   ];
 

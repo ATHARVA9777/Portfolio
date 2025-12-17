@@ -15,8 +15,8 @@ export default function Hero() {
 
         <p className="text-sm sm:text-base text-muted-foreground max-w-2xl mx-auto mb-8 leading-relaxed">
           Computer Science Engineering student specializing in AI and Machine
-          Learning. Published researcher with expertise in production-grade Python,
-          deep learning, NLP, and scalable system architecture. Building
+          Learning. Published researcher with expertise in production-grade
+          Python, deep learning, NLP, and scalable system architecture. Building
           intelligent systems that solve real problems.
         </p>
 

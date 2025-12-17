@@ -28,8 +28,8 @@ export default function About() {
           </p>
 
           <p>
-            Beyond traditional software engineering, I have a strong foundation in
-            distributed systems, algorithm optimization, cloud infrastructure
+            Beyond traditional software engineering, I have a strong foundation
+            in distributed systems, algorithm optimization, cloud infrastructure
             (AWS), and microservices architecture. I'm particularly passionate
             about transformer models, real-time inference systems, and edge
             computing applications.
@@ -38,8 +38,8 @@ export default function About() {
           <p>
             As an active contributor to open-source projects and competitive
             programming platforms, I'm seeking SWE/ML Engineer 2026 internship
-            opportunities at top-tier technology companies where I can contribute
-            meaningfully to solving complex technical challenges.
+            opportunities at top-tier technology companies where I can
+            contribute meaningfully to solving complex technical challenges.
           </p>
         </div>
 
