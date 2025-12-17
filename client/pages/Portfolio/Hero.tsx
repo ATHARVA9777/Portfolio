@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail, Phone, MapPin } from "lucide-react";
+import { Github, Linkedin, MapPin } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -35,7 +35,7 @@ export default function Hero() {
           </a>
         </div>
 
-        <div className="flex items-center justify-center gap-6 sm:gap-8">
+        <div className="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-8 mb-8">
           <a
             href="https://www.linkedin.com/in/atharva-sonawane-664715352"
             target="_blank"
@@ -56,17 +56,15 @@ export default function Hero() {
           </a>
           <a
             href="mailto:atharvasonawane96@gmail.com"
-            className="text-muted-foreground hover:text-foreground transition-colors"
-            aria-label="Email"
+            className="text-sm text-muted-foreground hover:text-foreground transition-colors"
           >
-            <Mail className="w-5 h-5" />
+            Gmail- atharvasonawane96@gmail.com
           </a>
           <a
             href="tel:+919403771612"
-            className="text-muted-foreground hover:text-foreground transition-colors"
-            aria-label="Phone"
+            className="text-sm text-muted-foreground hover:text-foreground transition-colors"
           >
-            <Phone className="w-5 h-5" />
+            Phone- +91 9403771612
           </a>
         </div>
 
