@@ -46,7 +46,7 @@ export default function Hero() {
             <Linkedin className="w-5 h-5" />
           </a>
           <a
-            href="https://github.com/atharva-sonawane"
+            href="https://github.com/ATHARVA9777"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
