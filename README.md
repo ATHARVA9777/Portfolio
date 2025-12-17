@@ -35,20 +35,4 @@ To get a local copy up and running, follow these steps:
 Prerequisites
 You will need a browser and a code editor (like VS Code). If you are using a framework like React, ensure you have Node.js installed.
 
-Installation
-Clone the repository:
 
-Bash
-
-git clone https://github.com/ATHARVA9777/Portfolio.git
-Navigate to the directory:
-
-Bash
-
-cd Portfolio
-Open the project: For basic HTML/CSS: Simply open index.html in your browser. For Node.js projects:
-
-Bash
-
-npm install
-npm run dev
