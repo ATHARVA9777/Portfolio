@@ -37,7 +37,7 @@ export default function Hero() {
 
         <div className="flex items-center justify-center gap-6 sm:gap-8">
           <a
-            href="https://linkedin.com/in/atharva-sonawane"
+            href="https://www.linkedin.com/in/atharva-sonawane-664715352"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
