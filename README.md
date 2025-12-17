@@ -12,6 +12,7 @@ Contact Integration: Easy-to-find social links and a professional contact sectio
 
 Performance Optimized: Built with modern web standards for fast load times.
 
+
 🛠️ Tech Stack
 Frontend: HTML5, CSS3, JavaScript (or list frameworks like React/Next.js if applicable)
 
@@ -19,18 +20,8 @@ Styling: Tailwind CSS / Styled Components
 
 Icons: FontAwesome / Lucide React
 
-Deployment: Vercel / Netlify / GitHub Pages
+Deployment: Netlify / GitHub Pages
 
-📂 Project Structure
-Plaintext
-
-├── assets/         # Images, icons, and logos
-├── components/     # Reusable UI components
-├── css/            # Stylesheets
-├── index.html      # Main entry point
-└── js/             # Interactive scripts and logic
-🚀 Getting Started
-To get a local copy up and running, follow these steps:
 
 Prerequisites
 You will need a browser and a code editor (like VS Code). If you are using a framework like React, ensure you have Node.js installed.
