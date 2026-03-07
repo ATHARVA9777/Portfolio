@@ -27,8 +27,15 @@ export default function Accomplishments() {
       icon: Zap,
       title: "Rapid Technology Adoption",
       description:
-        "Successfully mastered 10+ programming languages, frameworks, and technologies within 2-year period, showcasing strong self-learning capabilities and adaptability to new tech stacks.",
+        "Led technical expos, national-level hackathons, robotics events, and coding competitions for 200+ participants at Yashoda Technical Campus.",
       focus: "Learning Agility",
+    },
+    {
+      icon: Award,
+      title: "President, Cisco Committee",
+      description:
+        "Successfully mastered 10+ programming languages, frameworks, and technologies within 2-year period, showcasing strong self-learning capabilities and adaptability to new tech stacks.",
+      focus: "Leadership",
     },
   ];
 
