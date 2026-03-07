@@ -3,6 +3,28 @@ import { Briefcase } from "lucide-react";
 export default function Experience() {
   const experiences = [
     {
+      role: "Frontend Developer Intern ",
+      company: "Digital Tokri (IRA Digital Services) ",
+      location: "Wakad, Pune, Maharashtra, India",
+      duration: "January 2026",
+      highlights: [
+        "Developing and maintaining responsive UI components for live web projects using HTML5, CSS3, and JavaScript in an on-site Agile environment.",
+        "Collaborating with cross-functional teams on sprint delivery, code reviews, and performance optimization achieving 95+ Lighthouse scores.",
+        "Applying modern frontend practices including cross-browser compatibility, accessibility standards, and Git-based version control workflows.",
+      ],
+    },
+    {
+      role: "AWS Generative AI Intern (Virtual) ",
+      company: "AICTE – EduSkills / AWS Academy",
+      location: "Satara, Maharashtra, India",
+      duration: "January 2026",
+      highlights: [
+        "Completing a 10-week structured program covering Machine Learning Foundations, NLP, Sentiment Analysis, and Generative AI with Amazon SageMaker.",
+        "Building competency in prompt engineering, responsible AI practices, and cloud-based ML model development on AWS infrastructure.",
+        "Working towards final AWS Academy certification on completion of the AICTE National Internship Portal program",
+      ],
+    },
+    {
       role: "AI/ML/DL & Generative AI Engineer Intern",
       company: "IOFT",
       location: "Satara, Maharashtra, India",
