@@ -3,6 +3,90 @@ import { ExternalLink } from "lucide-react";
 export default function Projects() {
   const projects = [
     {
+      title:
+        "CipherVault: Enterprise Secure Encryption & Digital Vault System",
+      duration: "2025 – 2026",
+      description:
+        "Cybersecurity-focused desktop application providing secure encryption, confidential note management, encrypted QR code generation, user authentication, and activity tracking within a professional desktop environment.",
+      highlights: [
+        "Complete secure data management ecosystem combining cryptography, database management, and authentication",
+        "Industry-standard encryption techniques for protecting sensitive information",
+        "Encrypted QR code generation for secure data sharing",
+        "User authentication and activity tracking for auditability",
+        "Practical demonstration of secure software development practices and scalable Python application architecture",
+      ],
+      tech: [
+        "Python",
+        "Cryptography",
+        "SQLite",
+        "Tkinter",
+        "Authentication",
+        "QR Codes",
+      ],
+      impact:
+        "Simulated real-world security platform showcasing enterprise-grade encryption and secure data management",
+    },
+    {
+      title: "Django REST API Beginner Project",
+      duration: "2025",
+      description:
+        "Django REST Framework API for a blog application, built to practice core backend concepts including models, serializers, viewsets, authentication, and permissions.",
+      highlights: [
+        "Full CRUD operations with custom permission classes restricting users to their own posts",
+        "Search functionality across post titles and content",
+        "Date-based filtering using django-filter",
+        "Django's built-in authentication system with SQLite database",
+        "DRF browsable API enabling easy testing without external tools",
+      ],
+      tech: [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "SQLite",
+        "django-filter",
+      ],
+      impact:
+        "Solid foundation in backend API development, authentication, and permission-based access control",
+    },
+    {
+      title: "Smart Lab System (Campus Lab Management System)",
+      duration: "2025 – 2026",
+      description:
+        "Full-stack, enterprise-grade solution automating physical workstation allocation, monitoring, and lab operations across academic institutions, built with a Django/ASGI web dashboard and a Tkinter-based kiosk daemon.",
+      highlights: [
+        "Real-time digital floor maps and automated workstation locking replacing manual lab registries",
+        "Interval Overlap Validation Algorithm preventing double-booking of workstations",
+        "Background client gathering hardware telemetry (CPU, RAM, active processes) and detecting idle inactivity",
+        "Bulk CSV schedule imports for academic classes and live status sync via WebSockets",
+        "Automated PDF/CSV report generation with security-focused kiosk controls and attendance tracking",
+      ],
+      tech: [
+        "Python",
+        "Django",
+        "ASGI",
+        "Tkinter",
+        "WebSockets",
+        "SQLite/PostgreSQL",
+      ],
+      impact:
+        "Streamlined lab administration, maximized hardware utilization, and complete operational oversight across campus facilities",
+    },
+    {
+      title: "CyberGuard: AI-Powered SOC Automation Tool",
+      duration: "2025 – 2026",
+      description:
+        "AI-powered Security Operations Center (SOC) tool that autonomously triages security alerts, investigates incidents, and surfaces prioritised actions for lean security teams.",
+      highlights: [
+        "Autonomous triage of incoming security alerts to reduce analyst workload",
+        "Automated incident investigation with context-aware findings",
+        "Prioritized action recommendations tailored for small security teams",
+        "Designed to scale security operations without proportionally scaling headcount",
+      ],
+      tech: ["Python", "AI/LLM Integration", "Security Automation", "APIs"],
+      impact:
+        "Enabled lean security teams to respond faster to alerts through AI-driven triage and prioritization",
+    },
+    {
       title: "Multi-Modal AI/ML Desktop Application",
       duration: "2024 – 2025",
       description:
