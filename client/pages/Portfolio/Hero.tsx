@@ -5,6 +5,20 @@ export default function Hero() {
     <section className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8 py-20 bg-white dark:bg-slate-950">
       <div className="max-w-3xl w-full text-center">
         <div className="mb-8">
+          <div className="flex justify-center mb-6">
+            <div className="relative w-32 h-32 sm:w-40 sm:h-40">
+              <div
+                className="absolute inset-[-4px] bg-black shadow-lg"
+                style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }}
+              />
+              <img
+                src="/profile.jpg"
+                alt="Atharva Sonawane"
+                className="w-full h-full object-cover object-top"
+                style={{ clipPath: "polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)" }}
+              />
+            </div>
+          </div>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground mb-2">
             Atharva Sonawane
           </h1>
